@@ -1,0 +1,1 @@
+In this project, a decimal-to-binary converter is built using JavaScript. fundamental concepts of recursion is learnt, the call stack is explored and a visual representation of the recursion process is built through an animation.
